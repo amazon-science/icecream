@@ -146,7 +146,7 @@ pytz==2023.3
     # via
     #   causality
     #   pandas
-requests==2.28.2
+requests==2.32.2
     # via sphinx
 scikit-learn==1.1.3
     # via
